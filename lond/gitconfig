@@ -1,0 +1,8 @@
+[user]
+	name = intermalta 
+	email = intermalta@gmail.com
+[alias]
+  ci = commit
+  st = status
+  co = checkout
+  sdiff = diff --cached
